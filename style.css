@@ -210,7 +210,8 @@ section {
   justify-content: space-evenly;
 }
 
-.footer_: __link {
+.footer__link {
+  font-weight: 700;
 
 }
 @media (max-width: 786px) {
